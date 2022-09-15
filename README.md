@@ -7,10 +7,11 @@
 
 <h2 align="center">Welcome To My GitHub Profile</h2>
 
+<br/>
+
 - 👨‍💻 All Of My Projects Are Available At: [https://github.com/HossainRafi](https://github.com/HossainRafi)
 
 - 📫 Feel Free To Contact Me: **hossainrafi71@gmail.com**
-
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
@@ -18,13 +19,13 @@
 <a href="https://www.linkedin.com/in/-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 </p>
 
-<br/> <br/>
+<br/>
 
 <h3 align="center">My Skills:</h3>
 <p align="center"> 
-<a href="https://www.w3.org/html" target="_blank"> <img src="https://i.ibb.co/S0M8mwd/html.png" alt="html5" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/css" target="_blank"> <img src="https://i.ibb.co/0fjVXz8/css.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://i.ibb.co/nb4z8cQ/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html" target="_blank"> <img src="https://i.ibb.co/S0M8mwd/html.png" alt="html5"/> </a>  
+<a href="https://www.w3schools.com/css" target="_blank"> <img src="https://i.ibb.co/0fjVXz8/css.png" alt="css3"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://i.ibb.co/nb4z8cQ/bootstrap.png" alt="bootstrap"/> </a>
 <a href="https://tailwindcss.com" target="_blank"> <img src="https://i.ibb.co/YTKXp0g/tailwind.png" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://i.ibb.co/v4s0w10/javascript.jpg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org" target="_blank"> <img src="https://i.ibb.co/WzC79tm/react.png" alt="react.js" width="40" height="40"/> </a>
