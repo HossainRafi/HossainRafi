@@ -1,9 +1,7 @@
 ![I am HossainRafi](https://i.ibb.co/4Wm982H/github-cover-image.png)
 
-
 <h1 align="center">Hi 👋, I'm Muhammed Muazzam Hossain (Rafi)</h1>
 <h2 align="center">MERN Stack Web Developer</h2>
-
 <br/> <br/>
 
 <h2 align="center">Welcome To My GitHub Profile</h2>
