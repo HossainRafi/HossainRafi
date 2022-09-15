@@ -29,9 +29,9 @@
 <a href="https://tailwindcss.com" target="_blank"> <img src="https://i.ibb.co/YTKXp0g/tailwind.png" alt="tailwind" width="70" height="50"/> </a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://i.ibb.co/v4s0w10/javascript.jpg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://reactjs.org" target="_blank"> <img src="https://i.ibb.co/WzC79tm/react.png" alt="react" width="55" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/nPhFpnq/node.png" alt="node" width="80" height="50"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.ibb.co/TqtQJmM/express.png" alt="express" width="50" height="50"/> </a> 
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://i.ibb.co/mC4prtc/mongodb.png" alt="mongodb" width="50" height="50"/> </a>  
+<a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/nPhFpnq/node.png" alt="node" width="90" height="60"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://i.ibb.co/TqtQJmM/express.png" alt="express" width="60" height="60"/> </a> 
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://i.ibb.co/mC4prtc/mongodb.png" alt="mongodb" width="60" height="70"/> </a>  
 <a href="https://firebase.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
