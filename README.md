@@ -34,13 +34,12 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://i.ibb.co/FK4CWTG/vscode.png" alt="vscode" width="50" height="50"/> </a> 
 </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossainRafi)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossainRafi&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossainRafi&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HossainRafi)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HossainRafi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HossainRafi)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HossainRafi)
 
-![Profile views](https://gpvc.arturio.dev/HossainRafi) 
+![Profile views](https://gpvc.arturio.dev/HossainRafi)
