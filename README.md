@@ -19,11 +19,8 @@
 </p>
 
 
-My Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / React.js / Node.js / Express.js / MongoDB
-
-
-<h3 align="left">My Skills:</h3>
-<p align="left"> 
+<h3 align="center">My Skills:</h3>
+<p align="center"> 
 <a href="https://www.w3.org/html" target="_blank"> <img src="https://i.ibb.co/S0M8mwd/html.png" alt="html5" width="40" height="40"/> </a>  
 <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://i.ibb.co/0fjVXz8/css.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://i.ibb.co/nb4z8cQ/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
