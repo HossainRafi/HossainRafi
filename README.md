@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed Muazzam Hossain (Rafi)</h1>
 <h2 align="center">MERN Stack Web Developer</h2>
-<br/> <br/>
+
+<br/>
 
 <h2 align="center">Welcome To My GitHub Profile</h2>
 
@@ -17,7 +18,7 @@
 <a href="https://www.linkedin.com/in/-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 </p>
 
-<br/> <br/> <br/>
+<br/> <br/>
 
 <h3 align="center">My Skills:</h3>
 <p align="center"> 
