@@ -23,7 +23,7 @@
 
 <h3 align="center">My Skills:</h3>
 <p align="center"> 
-<a href="https://www.w3.org/html" target="_blank"> <img src="https://i.ibb.co/S0M8mwd/html.png" alt="html5" width="50" height="60"/> </a>  
+<a href="https://www.w3.org/html" target="_blank"> <img src="https://i.ibb.co/S0M8mwd/html.png" alt="html5" width="50" height="60" margin="20"/> </a>  
 <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://i.ibb.co/0fjVXz8/css.png" alt="css3" width="60" height="60"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://i.ibb.co/J7tzdyn/bootstrap.png" alt="bootstrap" width="70" height="60"/> </a>
 <a href="https://tailwindcss.com" target="_blank"> <img src="https://i.ibb.co/YTKXp0g/tailwind.png" alt="tailwind" width="70" height="50"/> </a>
