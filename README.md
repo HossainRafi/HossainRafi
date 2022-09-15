@@ -43,6 +43,6 @@
 <a href="https://web.facebook.com/rafi.barishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 </p>
-<br/>
 
 <h2 align="center">Thank You For Visiting My GitHub Profile</h2>
+<br/>
