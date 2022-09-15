@@ -25,8 +25,8 @@
 <p align="center"> 
 <a href="https://www.w3.org/html" target="_blank"> <img src="https://i.ibb.co/S0M8mwd/html.png" alt="html5" width="50" height="60"/> </a>  
 <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://i.ibb.co/0fjVXz8/css.png" alt="css3" width="60" height="60"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://i.ibb.co/nb4z8cQ/bootstrap.png" alt="bootstrap" width="50" height="60"/> </a>
-<a href="https://tailwindcss.com" target="_blank"> <img src="https://i.ibb.co/YTKXp0g/tailwind.png" alt="tailwind" width="60" height="50"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://i.ibb.co/nb4z8cQ/bootstrap.png" alt="bootstrap" width="60" height="60"/> </a>
+<a href="https://tailwindcss.com" target="_blank"> <img src="https://i.ibb.co/YTKXp0g/tailwind.png" alt="tailwind" width="70" height="50"/> </a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://i.ibb.co/v4s0w10/javascript.jpg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://reactjs.org" target="_blank"> <img src="https://i.ibb.co/WzC79tm/react.png" alt="react" width="50" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/nPhFpnq/node.png" alt="node" width="80" height="50"/> </a>
