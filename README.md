@@ -29,13 +29,13 @@
 <a href="https://tailwindcss.com" target="_blank"> <img src="https://i.ibb.co/YTKXp0g/tailwind.png" alt="tailwind" width="60" height="40"/> </a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://i.ibb.co/v4s0w10/javascript.jpg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org" target="_blank"> <img src="https://i.ibb.co/WzC79tm/react.png" alt="react" width="45" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/Z1b6CyP/node.png" alt="node" width="80" height="60"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/Z1b6CyP/node.png" alt="node" width="60" height="50"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.ibb.co/TqtQJmM/express.png" alt="express" width="50" height="50"/> </a> 
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://i.ibb.co/zZmpGmr/mongodb.png" alt="mongodb" width="50" height="60"/> </a> 
-<a href="https://firebase.google.com" target="_blank"> <img src="https://i.ibb.co/Xbdytfd/firebase.png" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://i.ibb.co/Gv5CBLS/heroku.png" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://git-scm.com" target="_blank"> <img src="https://i.ibb.co/mXYN5W5/git.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://i.ibb.co/FK4CWTG/vscode.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://i.ibb.co/zZmpGmr/mongodb.png" alt="mongodb" width="50" height="50"/> </a> 
+<a href="https://firebase.google.com" target="_blank"> <img src="https://i.ibb.co/Xbdytfd/firebase.png" alt="firebase" width="50" height="50"/> </a> 
+<a href="https://heroku.com" target="_blank"> <img src="https://i.ibb.co/Gv5CBLS/heroku.png" alt="heroku" width="50" height="50"/> </a> 
+<a href="https://git-scm.com" target="_blank"> <img src="https://i.ibb.co/mXYN5W5/git.png" alt="git" width="50" height="50"/> </a> 
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://i.ibb.co/FK4CWTG/vscode.png" alt="vscode" width="50" height="50"/> </a> 
 </p>
 
 
