@@ -30,11 +30,11 @@
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://i.ibb.co/v4s0w10/javascript.jpg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://reactjs.org" target="_blank"> <img src="https://i.ibb.co/WzC79tm/react.png" alt="react" width="55" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/Z1b6CyP/node.png" alt="node" width="90" height="50"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.ibb.co/TqtQJmM/express.png" alt="express" width="50" height="50"/> </a> 
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://i.ibb.co/zZmpGmr/mongodb.png" alt="mongodb" width="50" height="50"/> </a> 
-<a href="https://firebase.google.com" target="_blank"> <img src="https://i.ibb.co/Xbdytfd/firebase.png" alt="firebase" width="50" height="50"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://i.ibb.co/TqtQJmM/express.png" alt="express" width="55" height="55"/> </a> 
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://i.ibb.co/zZmpGmr/mongodb.png" alt="mongodb" width="55" height="55"/> </a> 
+<a href="https://firebase.google.com" target="_blank"> <img src="https://i.ibb.co/Xbdytfd/firebase.png" alt="firebase" width="50" height="55"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://i.ibb.co/Gv5CBLS/heroku.png" alt="heroku" width="50" height="50"/> </a> 
-<a href="https://git-scm.com" target="_blank"> <img src="https://i.ibb.co/mXYN5W5/git.png" alt="git" width="50" height="50"/> </a> 
+<a href="https://git-scm.com" target="_blank"> <img src="https://i.ibb.co/mXYN5W5/git.png" alt="git" width="55" height="55"/> </a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://i.ibb.co/FK4CWTG/vscode.png" alt="vscode" width="50" height="50"/> </a> 
 </p>
 
