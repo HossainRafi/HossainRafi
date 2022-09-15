@@ -6,8 +6,6 @@
 <br/>
 
 <h2 align="center">Welcome To My GitHub Profile</h2>
-![Profile views](https://gpvc.arturio.dev/HossainRafi)
-
 - 👨‍💻 All Of My Projects Are Available At: [https://github.com/HossainRafi](https://github.com/HossainRafi)
 
 - 📫 Feel Free To Contact Me: **hossainrafi71@gmail.com**
@@ -42,3 +40,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HossainRafi)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HossainRafi)
+
+![Profile views](https://gpvc.arturio.dev/HossainRafi)
