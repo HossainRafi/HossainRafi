@@ -10,7 +10,7 @@
 ![Profile views](https://gpvc.arturio.dev/HossainRafi)
 
 - 👨‍💻 All Of My Projects Are Available At: [https://github.com/HossainRafi](https://github.com/HossainRafi)
-- 📫 Feel Free To Contact Me: **hossainrafi71@gmail.com**
+- 📧 Feel Free To Contact Me: **hossainrafi71@gmail.com**
 
 <h3 align="left">My Skills:</h3>
 <p align="left"> 
