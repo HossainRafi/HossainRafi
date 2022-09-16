@@ -31,7 +31,7 @@ I'm a junior MERN Stack Web Developer. I love to code and make something new. I 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossainRafi&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HossainRafi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HossainRafi) 
 
 ![GitHub metrics](https://metrics.lecoq.io/HossainRafi)  
 
