@@ -27,11 +27,11 @@ I'm a junior MERN Stack Web Developer. I love to code and make something new. I 
 - 🌱 I’m Currently Learning: Mongoose / Redux / TypeScript 
 - 📫 Reach Me At:  hossainrafi71@gmail.com 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossainRafi&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossainRafi&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HossainRafi) 
+<div align="center">
+<img width="33%" src="https://github-readme-stats.vercel.app/api?username=HossainRafi&show_icons=true&theme=white" />
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossainRafi&langs_count=4&layout=compact" />
+<img width="33%" src="http://github-readme-streak-stats.herokuapp.com?user=HossainRafi&date_format=j%20M%5B%20Y%5D" />
+</div>
 
 ![GitHub metrics](https://metrics.lecoq.io/HossainRafi)  
 
