@@ -1,6 +1,6 @@
 ![MERN Stack Web Developer](https://i.ibb.co/4Wm982H/github-cover-image.png)
-### Hi there 👋, I'm Muhammed Muazzam Hossain(Rafi)
-#### MERN Stack Web Developer
+# Hi there 👋, I'm Muhammed Muazzam Hossain(Rafi)
+### MERN Stack Web Developer
 
 I'm a junior MERN Stack Web Developer. I love to code and make something new. I have a passion for learning and sharing my knowledge with others. If I talk about my strengths, I can say that I’m a quick learner, team player, adaptable and hard working creative person. My ultimate goal is to become an awesome Full-Stack Web Developer who can make beautiful UIs and also can handle backend smoothly.
 
