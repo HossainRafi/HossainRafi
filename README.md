@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Muazzam Hossain(Rafi)</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
 
-####I'm a junior MERN Stack Web Developer. I love to code and make something new. I have a passion for learning and sharing my knowledge with others. If I talk about my strengths, I can say that I’m a quick learner, team player, adaptable and hard working creative person. My ultimate goal is to become an awesome Full-Stack Web Developer who can make beautiful UIs and also can handle backend smoothly.
+I'm a junior MERN Stack Web Developer. I love to code and make something new. I have a passion for learning and sharing my knowledge with others. If I talk about my strengths, I can say that I’m a quick learner, team player, adaptable and hard working creative person. My ultimate goal is to become an awesome Full-Stack Web Developer who can make beautiful UIs and also can handle backend smoothly.
+
+![Profile views](https://gpvc.arturio.dev/HossainRafi)
 
 <h3 align="left">My Skills:</h3>
 <p align="left"> 
@@ -40,4 +42,3 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HossainRafi)  
 
-![Profile views](https://gpvc.arturio.dev/HossainRafi)  
