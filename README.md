@@ -38,7 +38,7 @@ I'm a junior MERN Stack Web Developer. I love to code and make something new. I 
 <img width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=HossainRafi&date_format=j%20M%5B%20Y%5D" />
 </div>
 
-![GitHub metrics](https://metrics.lecoq.io/HossainRafi)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/HossainRafi)   -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HossainRafi)](https://github.com/ryo-ma/github-profile-trophy)
 
