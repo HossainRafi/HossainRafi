@@ -42,4 +42,4 @@ I'm a junior MERN Stack Web Developer. I love to code and make something new. I 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=HossainRafi)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HossainRafi)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HossainRafi) -->
