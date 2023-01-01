@@ -1,5 +1,5 @@
 ![MERN Stack Web Developer](https://i.ibb.co/3rmHLgw/githubcover.png)
-<h1 align="center">Hi 👋, I'm Muhammed Muazzam Hossain(Rafi)</h1>
+<h1 align="center">Hi 👋, I'm Muazzam Hossain</h1>
 <h3 align="center">👑 Front-End Web Developer</h3>
 
 🖊️ Love To Write Code <br>
