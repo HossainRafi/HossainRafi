@@ -1,6 +1,6 @@
 ![MERN Stack Web Developer](https://i.ibb.co/3rmHLgw/githubcover.png)
 <h1 align="center">Hi 👋, I'm Muhammed Muazzam Hossain</h1>
-<h3 align="center">👑 Front-End Web Developer</h3>
+<h3 align="center">👑 A Front-End Web Developer</h3>
 
 🖊️ Love To Write Code <br>
 ✒  Passoniate About Learning <br>
