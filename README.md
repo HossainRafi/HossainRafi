@@ -3,7 +3,7 @@
 <h3 align="center">👑 A Front-End Web Developer</h3>
 
 🖊️ Love To Write Code <br>
-✒  Passoniate About Learning <br>
+✒  Passionate About Learning <br>
 💕 Like to share my knowledge
 
 <!-- ![Profile views](https://gpvc.arturio.dev/HossainRafi) -->
