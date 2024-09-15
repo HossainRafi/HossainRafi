@@ -5,7 +5,7 @@
   <h2 align="center"> A Full Stack Web Developer </h2>
 </div>
 
-### 🐼 About Me :
+## 👨‍💼 About Me :
 
 I'm a Full Stack Web Developer. I love to code and make something new. I have a passion for learning and sharing my knowledge with others. My passion lies in Fullstack Web Development, particularly using the MERN (MongoDB, Express.js, React, and Node.js) stack. I find the MERN stack to be versatile and powerful, allowing me to build robust and responsive web applications. I'm constantly honing my skills in this area, staying up-to-date with the latest trends and technologies in web development to deliver the best solutions.
 
@@ -13,7 +13,7 @@ I’m a quick learner, team player, adaptable and hard working creative person. 
 
 
 
-## 😎 My Skillset :
+## 😎 My Skills :
 
 Web Development Technologies: `HTML` `CSS` `JavaScript` `React JS` `Redux` `Node JS` `Express JS`
 
@@ -97,20 +97,19 @@ Tools: `VS Code` `Git & GitHub` `Postman` `Figma` `Canva` `Chrome Dev Tool` `Ver
   <a href="https://www.buymeacoffee.com/webdevmaruf" target="_blank" style="text-decoration: none"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" alt="Buy Me A Coffee" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:220px;max-width:80%;height:auto;" ></a>
 </div> -->
 
-
+## ☕ Contact Me:
 <div align="left">
-<h2>☕ Connect With Me</h2>
 <a target="_blank"href="https://www.linkedin.com/in/-rafi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 <a target="_blank"href="https://wa.me/8801623389795"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><a/>
 <a target="_blank"href="https://www.facebook.com/rafi.barishal"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /><a/>
 <a target="_blank"href="mailto:hossainrafi71@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
 <div/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/HossainRafi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Follow+Me+😊)](https://github.com/HossainRafi)
 
 <div align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossainRafi&theme=vue-dark&langs_count=4&layout=compact" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=HossainRafi&show_icons=true&theme=vue-dark" />
-<img width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=HossainRafi&theme=vue-dark&date_format=j%20M%5B%20Y%5D" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossainRafi&theme=vue-dark&langs_count=4&layout=compact" />
+<img width="52%" src="https://github-readme-stats.vercel.app/api?username=HossainRafi&show_icons=true&theme=vue-dark" />
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=HossainRafi&theme=vue-dark&date_format=j%20M%5B%20Y%5D" />
 </div>
 
