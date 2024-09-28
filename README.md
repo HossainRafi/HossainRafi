@@ -29,7 +29,7 @@ Others Development Technologies: `React Router DOM` `JWT` `Axios` `NPM Packages`
 
 Tools: `VS Code` `Git & GitHub` `Postman` `Figma` `Canva` `Chrome Dev Tool` `Vercel` `Netlify` `Chat GPT` `Jira` `Trello`
 
-Interpersonal Skills: `Team Lead` `Team Work` `Quick Learning` `Problem Solving` `Focused` `Active Listening`  `Diplomacy` `Self Motivated` `Self Awarness`
+Interpersonal Skills: `Team Lead` `Team Work` `Quick Learning` `Problem Solving` `Focused` `Active Listening`  `Diplomacy` `Self Motivated`
 
 <hr>
 
